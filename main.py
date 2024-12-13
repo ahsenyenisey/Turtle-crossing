@@ -7,7 +7,7 @@ from scoreboard import Scoreboard
 screen = Screen()
 screen.setup(width=600, height=600)
 screen.tracer(0)
-Screen().bgcolor("blue")
+Screen().bgcolor("cyan")
 
 player = Player()
 car_manager = CarManager()
