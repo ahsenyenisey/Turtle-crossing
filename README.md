@@ -14,4 +14,4 @@ _Use the up arrow key “↑” to move the turtle upwards (towards the goal).
 Avoid moving obstacles and move safely across the screen.
 As you progress the game becomes more challenging and the obstacles move faster._
 
-![image](https://github.com/user-attachments/assets/12be17e4-6abd-4e5c-9a01-635c0ee4a4a4)
+![image](https://github.com/user-attachments/assets/51e371e1-140d-4cfd-86d5-988c615b2b89)
